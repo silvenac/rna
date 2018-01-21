@@ -3,3 +3,5 @@ Reconstruct RNA sequences from UC-digest (split by UC enzyme) and G-digest using
 
 Testing and usage in `run.py`
 Requires: networkx, pygraphviz
+
+As a simple webapp: http://cs393rna.herokuapp.com
